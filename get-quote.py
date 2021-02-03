@@ -1,4 +1,4 @@
-def main(Renamed the primary function):
+def main(primary):
    print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,5 +8,5 @@ def main(Renamed the primary function):
   #print(quotes)
 
 if __name__== "__main__":
-  main(Renamed the primary function)
+  main(primary)
 python3 get-quote.py
