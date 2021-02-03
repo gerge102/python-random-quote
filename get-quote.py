@@ -1,4 +1,4 @@
-def main(primary):
+def main(Renamed the primary function):
    print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
