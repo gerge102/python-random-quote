@@ -8,5 +8,5 @@ def main(Renamed the primary function):
   #print(quotes)
 
 if __name__== "__main__":
-  main(primary)
+  main(Renamed the primary function)
 python3 get-quote.py
